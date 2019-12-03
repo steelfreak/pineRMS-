@@ -1,4 +1,4 @@
-# APIbase
+# PineRMS 
 Back-End API Built in Express, sequelize, and Mysql
 
 still in the basic form
